@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm **mggylsz**, a passionate software developer focused on building innovative solutions and expanding my technical expertise across multiple programming languages and frameworks. I enjoy tackling challenging problems and continuously learning new technologies.
+I'm **mggyslz**, a passionate software developer focused on building innovative solutions and expanding my technical expertise across multiple programming languages and frameworks. I enjoy tackling challenging problems and continuously learning new technologies.
 
 - 🌱 Currently exploring full-stack development
 - 💡 Interested in web development, algorithms, and software architecture
