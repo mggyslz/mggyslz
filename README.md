@@ -5,12 +5,17 @@
 
 ## About Me
 
-I'm **mggyslz**, a passionate software developer focused on building innovative solutions and expanding my technical expertise across multiple programming languages and frameworks. I enjoy tackling challenging problems and continuously learning new technologies.
+I’m **mggyslz**, a software developer focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I’m drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code.
 
-- 🌱 Currently exploring full-stack development
-- 💡 Interested in web development, algorithms, and software architecture
-- 🎯 Always looking to collaborate on interesting projects
-- 📍 Based in Bicol Region, Philippines
+🌱 Currently exploring full-stack development and modern web technologies
+
+💡 Interested in web development, algorithms, and software architecture
+
+🤝 Open to collaborating on meaningful projects
+
+🎯 Committed to continuous improvement and long-term mastery
+
+📍 Based in the Bicol Region, Philippines 🇵🇭
 
 ---
 
@@ -50,16 +55,17 @@ I'm **mggyslz**, a passionate software developer focused on building innovative 
 ## Contacts
 
 <div align="center">
-  <a href="https://www.facebook.com/miggzz.imperialcea" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="40" alt="facebook" />
+  <a href="https://www.facebook.com/miggzz.imperialcea" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?label=&message=Facebook&logo=facebook&color=000000&labelColor=000000&logoColor=FFFFFF&style=for-the-badge" height="40" alt="facebook" />
   </a>
-  <a href="https://www.instagram.com/itz.mgzz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="40" alt="instagram" />
+  <a href="https://www.instagram.com/itz.mgzz/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&color=FFFFFF&labelColor=FFFFFF&logoColor=000000&style=for-the-badge" height="40" alt="instagram" />
   </a>
-  <a href="mailto:miggymiggyimperialcea@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="40" alt="gmail" />
+  <a href="mailto:miggymiggyimperialcea@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=000000&labelColor=000000&logoColor=FFFFFF&style=for-the-badge" height="40" alt="gmail" />
   </a>
 </div>
+
 
 ---
 
