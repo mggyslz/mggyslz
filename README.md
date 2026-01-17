@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm **mggyslz**, a software developer focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I'm drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code.
+I'm **mggyslz**, a Full-Stack developer & Designer focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I'm drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code.
 
 🌱 Currently exploring full-stack development and modern web technologies  
 💡 Interested in web development, algorithms, and software architecture  
