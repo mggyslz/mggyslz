@@ -2,10 +2,27 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=I'm%20mggyslz%20-%20Software%20Developer&descSize=20&descAlign=50&descAlignY=60&color=000000" />
 </div>
 
+## GitHub Stats & Trophies
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mggyslz&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true" alt="GitHub Stats" width="400" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=mggyslz&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="400" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mggyslz&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" width="400" />
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mggyslz&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="800" />
+
+</div>
 
 ## About Me
 
-I’m **mggyslz**, a software developer focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I’m drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code.
+I'm **mggyslz**, a software developer focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I'm drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code.
 
 🌱 Currently exploring full-stack development and modern web technologies
 
@@ -47,6 +64,10 @@ I’m **mggyslz**, a software developer focused on designing and building reliab
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" style="filter: grayscale(100%);" alt="sqlite" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="filter: grayscale(100%);" alt="mysql" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="filter: grayscale(100%);" alt="postgresql" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" style="filter: grayscale(100%);" alt="supabase" />
 
 </div>
 
@@ -66,7 +87,6 @@ I’m **mggyslz**, a software developer focused on designing and building reliab
   </a>
 </div>
 
-
 ---
 
 <div align="center">
@@ -80,5 +100,5 @@ I’m **mggyslz**, a software developer focused on designing and building reliab
 ---
 
 <div align="center">
-  <i>From <a href="https://github.com/mggyslz">mggylsz</a></i>
+  <i>From <a href="https://github.com/mggyslz">mggyslz</a></i>
 </div>
