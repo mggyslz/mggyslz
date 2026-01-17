@@ -2,16 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=I'm%20mggyslz%20-%20Software%20Developer&descSize=20&descAlign=50&descAlignY=60&color=000000" />
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mggyslz&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800"
-    alt="GitHub Stats"
-    width="420"
-  />
-</div>
-
 ## About Me
 
 I'm **mggyslz**, a software developer focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I'm drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code.
