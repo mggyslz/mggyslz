@@ -179,12 +179,12 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mggyslz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mggyslz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="160" src="./assets/stats.svg" />
+  <img height="160" src="./assets/langs.svg" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mggyslz&theme=tokyonight&hide_border=true" />
+  <img src="./assets/streak.svg" />
 </div>
 
 ---
