@@ -3,6 +3,10 @@
 # Hey there, I'm mggyslz 👋
 ### Full-Stack Developer & Designer · Bicol Region, Philippines 🇵🇭
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=534AB7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Philippines;Building+reliable%2C+well-structured+solutions;Python+%7C+TypeScript+%7C+React+%7C+PostgreSQL;Always+learning%2C+always+improving.)](https://git.io/typing-svg)
+
+<br/>
+
 ![](https://img.shields.io/badge/Full--Stack%20Dev-534AB7?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Open%20to%20Collabs-0F6E56?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Continuous%20Learner-993C1D?style=flat-square&logoColor=white)
@@ -27,19 +31,94 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 
 ## 🗺️ Coding Journey
 
-```text
-Beginner        ████████████████████░░░░   Started with Python & basic web
-Intermediate    ████████████████░░░░░░░░   Dived into JS, React & databases
-Now             ████████████████████████   Building full-stack apps & systems
-```
+<details>
+<summary><b>🟣 Early Days — First Lines of Code</b></summary>
+<br/>
 
-| Year | Milestone |
-|------|-----------|
-| 🟣 Early Days | Wrote my first lines of Python — got hooked on logic and problem solving |
-| 🟣 Going Deeper | Picked up JavaScript, then TypeScript — started building real web interfaces |
-| 🟣 Full-Stack | Connected frontends to backends, learned SQL and explored React |
-| 🟣 Expanding | Added C++, Java, and PHP — started thinking about architecture and systems |
-| 🟢 Now | Building projects with Supabase, PostgreSQL, and modern frameworks |
+> Got hooked on Python — loops, logic, and the satisfaction of a working script. Built small tools, solved algorithmic problems, and discovered that programming is really just structured thinking.
+
+**Skills unlocked:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Logic](https://img.shields.io/badge/Logic%20%26%20Algorithms-534AB7?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-0F6E56?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>🟣 Going Deeper — Web Interfaces Come Alive</b></summary>
+<br/>
+
+> Picked up JavaScript, then TypeScript. Started building real frontends and understanding the browser — DOM manipulation, async flows, and how the web actually works under the hood.
+
+**Skills unlocked:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🟣 Full-Stack — Front Meets Back</b></summary>
+<br/>
+
+> Connected frontends to backends for the first time. Learned SQL, explored React, and understood how data flows through a complete system — from UI click to database and back.
+
+**Skills unlocked:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0F6E56?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🟣 Expanding — Architecture & Systems Thinking</b></summary>
+<br/>
+
+> Added C++, Java, and PHP to the toolkit. Shifted focus from *"does it work?"* to *"is it well-structured?"* — started thinking seriously about design patterns, separation of concerns, and maintainable codebases.
+
+**Skills unlocked:**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Architecture](https://img.shields.io/badge/System%20Design-993C1D?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>🟢 Now — Building Real-World Systems</b></summary>
+<br/>
+
+> Working with Supabase, PostgreSQL, and modern frameworks to build full-stack apps end-to-end. Focused on reliability, clean code, and long-term mastery — not just shipping features, but shipping *good* ones.
+
+**Currently working with:**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</details>
+
+<br/>
+
+### 📊 Skill Progression
+
+<div align="center">
+
+| Level | Skills |
+|:---:|---|
+| ![](https://img.shields.io/badge/Expert-534AB7?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| ![](https://img.shields.io/badge/Advanced-0F6E56?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| ![](https://img.shields.io/badge/Intermediate-993C1D?style=flat-square) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| ![](https://img.shields.io/badge/Learning-888780?style=flat-square) | ![System Design](https://img.shields.io/badge/System%20Design-534AB7?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-0F6E56?style=flat-square) ![Testing](https://img.shields.io/badge/Testing-993C1D?style=flat-square) |
+
+</div>
 
 ---
 
@@ -47,20 +126,16 @@ Now             █████████████████████�
 
 <div align="center">
 
-![](https://img.shields.io/badge/Languages%20Learned-6-534AB7?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Frameworks%20%26%20Tools-5%2B-0F6E56?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Databases%20Mastered-4-993C1D?style=for-the-badge&logoColor=white)
+| 🏅 | Achievement | Detail |
+|:---:|---|---|
+| ![](https://img.shields.io/badge/6-Languages-534AB7?style=for-the-badge) | **6 Programming Languages** | Python, JavaScript, TypeScript, C++, Java, PHP |
+| ![](https://img.shields.io/badge/4-Databases-0F6E56?style=for-the-badge) | **4 Database Systems** | SQLite, MySQL, PostgreSQL, Supabase |
+| ![](https://img.shields.io/badge/5+-Frameworks-993C1D?style=for-the-badge) | **5+ Frameworks & Tools** | React, Node.js, and modern tooling |
+| ![](https://img.shields.io/badge/E2E-Full--Stack-534AB7?style=for-the-badge) | **End-to-End Capability** | UI layer all the way to the database |
+| ![](https://img.shields.io/badge/Solid-Architecture-0F6E56?style=for-the-badge) | **System Design Foundation** | Maintainable, scalable code structure |
+| ![](https://img.shields.io/badge/Daily-Learning-993C1D?style=for-the-badge) | **Continuous Improvement** | Committed to long-term mastery |
 
 </div>
-
-| Badge | Achievement |
-|-------|-------------|
-| 🥇 | Learned and actively use **6 programming languages** |
-| 🗄️ | Comfortable with **4 database systems** including Supabase and PostgreSQL |
-| ⚛️ | Built projects using **React** and modern frontend tooling |
-| 🏗️ | Developed a strong foundation in **software architecture** and system design |
-| 🌐 | Experienced across the **full web stack** — from UI to database layer |
-| 📚 | Committed to **continuous self-improvement** and daily learning |
 
 ---
 
@@ -69,33 +144,33 @@ Now             █████████████████████�
 <div align="center">
 
 ### 🔤 Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>
 
 ### 🎨 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
 
 ### 🗄️ Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" title="Supabase"/>
 
 </div>
 
