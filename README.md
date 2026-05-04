@@ -32,7 +32,7 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 ## 🗺️ Coding Journey
 
 <details>
-<summary><b>🟣 Early Days — First Lines of Code</b></summary>
+<summary><b>Early Days: First Lines of Code</b></summary>
 <br/>
 
 > Got hooked on Python — loops, logic, and the satisfaction of a working script. Built small tools, solved algorithmic problems, and discovered that programming is really just structured thinking.
@@ -46,7 +46,7 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 </details>
 
 <details>
-<summary><b>🟣 Going Deeper — Web Interfaces Come Alive</b></summary>
+<summary><b>Going Deeper: Web Interfaces Come Alive</b></summary>
 <br/>
 
 > Picked up JavaScript, then TypeScript. Started building real frontends and understanding the browser — DOM manipulation, async flows, and how the web actually works under the hood.
@@ -61,7 +61,7 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 </details>
 
 <details>
-<summary><b>🟣 Full-Stack — Front Meets Back</b></summary>
+<summary><b>Full-Stack: Front Meets Back</b></summary>
 <br/>
 
 > Connected frontends to backends for the first time. Learned SQL, explored React, and understood how data flows through a complete system — from UI click to database and back.
@@ -76,7 +76,7 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 </details>
 
 <details>
-<summary><b>🟣 Expanding — Architecture & Systems Thinking</b></summary>
+<summary><b>Expanding: Architecture & Systems Thinking</b></summary>
 <br/>
 
 > Added C++, Java, and PHP to the toolkit. Shifted focus from *"does it work?"* to *"is it well-structured?"* — started thinking seriously about design patterns, separation of concerns, and maintainable codebases.
@@ -91,7 +91,7 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 </details>
 
 <details open>
-<summary><b>🟢 Now — Building Real-World Systems</b></summary>
+<summary><b>Now: Building Real-World Systems</b></summary>
 <br/>
 
 > Working with Supabase, PostgreSQL, and modern frameworks to build full-stack apps end-to-end. Focused on reliability, clean code, and long-term mastery — not just shipping features, but shipping *good* ones.
