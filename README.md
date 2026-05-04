@@ -3,11 +3,12 @@
 # Hey there, I'm mggyslz 👋
 ### Full-Stack Developer & Designer · Bicol Region, Philippines 🇵🇭
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=534AB7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Philippines;Building+reliable%2C+well-structured+solutions;Python+%7C+TypeScript+%7C+React+%7C+PostgreSQL;Always+learning%2C+always+improving.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=534AB7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Philippines;Building+reliable%2C+well-structured+solutions;Python+%7C+TypeScript+%7C+React+%7C+PostgreSQL;NLP+%7C+Transformers+%7C+PyTorch+%7C+HuggingFace;Always+learning%2C+always+improving.)](https://git.io/typing-svg)
 
 <br/>
 
 ![](https://img.shields.io/badge/Full--Stack%20Dev-534AB7?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/AI%2FML%20Enthusiast-993C1D?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Open%20to%20Collabs-0F6E56?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Continuous%20Learner-993C1D?style=flat-square&logoColor=white)
 
@@ -17,11 +18,12 @@
 
 ## 💡 About Me
 
-I'm a **Full-Stack Developer** focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I'm drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code.
+I'm a **Full-Stack Developer** focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I'm drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code — including applied AI and NLP research.
 
 | | |
 |---|---|
 | 🌱 | Currently exploring full-stack development and modern web technologies |
+| 🤖 | Working with Transformers, NLP, and multilingual AI models |
 | 💡 | Interested in web development, algorithms, and software architecture |
 | 🤝 | Open to collaborating on meaningful projects |
 | 🎯 | Committed to continuous improvement and long-term mastery |
@@ -90,6 +92,22 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 
 </details>
 
+<details>
+<summary><b>Into AI: NLP & Transformer Models</b></summary>
+<br/>
+
+> Dove into applied machine learning and NLP — fine-tuning multilingual transformers (mBERT, XLM-RoBERTa, TLUnified-RoBERTa) on low-resource Taglish data. Learned how models learn: tokenization, attention, embeddings, curriculum learning, and parameter-efficient fine-tuning with QLoRA.
+
+**Skills unlocked:**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+</details>
+
 <details open>
 <summary><b>Now: Building Real-World Systems</b></summary>
 <br/>
@@ -102,6 +120,8 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </details>
 
@@ -114,9 +134,9 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 | Level | Skills |
 |:---:|---|
 | ![](https://img.shields.io/badge/Expert-534AB7?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| ![](https://img.shields.io/badge/Advanced-0F6E56?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
-| ![](https://img.shields.io/badge/Intermediate-993C1D?style=flat-square) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| ![](https://img.shields.io/badge/Learning-888780?style=flat-square) | ![System Design](https://img.shields.io/badge/System%20Design-534AB7?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-0F6E56?style=flat-square) ![Testing](https://img.shields.io/badge/Testing-993C1D?style=flat-square) |
+| ![](https://img.shields.io/badge/Advanced-0F6E56?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| ![](https://img.shields.io/badge/Intermediate-993C1D?style=flat-square) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| ![](https://img.shields.io/badge/Learning-888780?style=flat-square) | ![System Design](https://img.shields.io/badge/System%20Design-534AB7?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-0F6E56?style=flat-square) ![Testing](https://img.shields.io/badge/Testing-993C1D?style=flat-square) ![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-EE4C2C?style=flat-square) |
 
 </div>
 
@@ -131,6 +151,8 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 | ![](https://img.shields.io/badge/6-Languages-534AB7?style=for-the-badge) | **6 Programming Languages** | Python, JavaScript, TypeScript, C++, Java, PHP |
 | ![](https://img.shields.io/badge/4-Databases-0F6E56?style=for-the-badge) | **4 Database Systems** | SQLite, MySQL, PostgreSQL, Supabase |
 | ![](https://img.shields.io/badge/5+-Frameworks-993C1D?style=for-the-badge) | **5+ Frameworks & Tools** | React, Node.js, and modern tooling |
+| ![](https://img.shields.io/badge/AI-NLP%20Research-534AB7?style=for-the-badge) | **Applied NLP Research** | Fine-tuned mBERT, XLM-RoBERTa & TLUnified-RoBERTa on Taglish |
+| ![](https://img.shields.io/badge/QLoRA-Fine--Tuning-EE4C2C?style=for-the-badge) | **Parameter-Efficient Fine-Tuning** | QLoRA + SPCL curriculum on low-resource multilingual data |
 | ![](https://img.shields.io/badge/E2E-Full--Stack-534AB7?style=for-the-badge) | **End-to-End Capability** | UI layer all the way to the database |
 | ![](https://img.shields.io/badge/Solid-Architecture-0F6E56?style=for-the-badge) | **System Design Foundation** | Maintainable, scalable code structure |
 | ![](https://img.shields.io/badge/Daily-Learning-993C1D?style=for-the-badge) | **Continuous Improvement** | Committed to long-term mastery |
@@ -171,6 +193,19 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" title="Supabase"/>
+
+### 🤖 AI / ML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
+<img width="12" />
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" title="HuggingFace Transformers"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" title="scikit-learn"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" title="Google Colab"/>
 
 </div>
 
