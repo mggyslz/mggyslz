@@ -25,12 +25,50 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 
 ---
 
+## 🗺️ Coding Journey
+
+```text
+Beginner        ████████████████████░░░░   Started with Python & basic web
+Intermediate    ████████████████░░░░░░░░   Dived into JS, React & databases
+Now             ████████████████████████   Building full-stack apps & systems
+```
+
+| Year | Milestone |
+|------|-----------|
+| 🟣 Early Days | Wrote my first lines of Python — got hooked on logic and problem solving |
+| 🟣 Going Deeper | Picked up JavaScript, then TypeScript — started building real web interfaces |
+| 🟣 Full-Stack | Connected frontends to backends, learned SQL and explored React |
+| 🟣 Expanding | Added C++, Java, and PHP — started thinking about architecture and systems |
+| 🟢 Now | Building projects with Supabase, PostgreSQL, and modern frameworks |
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![](https://img.shields.io/badge/Languages%20Learned-6-534AB7?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Frameworks%20%26%20Tools-5%2B-0F6E56?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Databases%20Mastered-4-993C1D?style=for-the-badge&logoColor=white)
+
+</div>
+
+| Badge | Achievement |
+|-------|-------------|
+| 🥇 | Learned and actively use **6 programming languages** |
+| 🗄️ | Comfortable with **4 database systems** including Supabase and PostgreSQL |
+| ⚛️ | Built projects using **React** and modern frontend tooling |
+| 🏗️ | Developed a strong foundation in **software architecture** and system design |
+| 🌐 | Experienced across the **full web stack** — from UI to database layer |
+| 📚 | Committed to **continuous self-improvement** and daily learning |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 🔤 Languages
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -44,7 +82,6 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
 
 ### 🎨 Frontend
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
@@ -52,7 +89,6 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
 
 ### 🗄️ Databases
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
@@ -62,7 +98,6 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
 
 </div>
-
 
 ---
 
