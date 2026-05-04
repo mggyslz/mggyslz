@@ -1,0 +1,54 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # runs every 12 hours
+  workflow_dispatch:          # lets you run it manually too
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate stats card
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const https = require('https');
+
+            function download(url, dest) {
+              return new Promise((resolve, reject) => {
+                const file = fs.createWriteStream(dest);
+                https.get(url, res => res.pipe(file).on('finish', resolve)).on('error', reject);
+              });
+            }
+
+            fs.mkdirSync('assets', { recursive: true });
+
+            await download(
+              'https://github-readme-stats.vercel.app/api?username=mggyslz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true',
+              'assets/stats.svg'
+            );
+            await download(
+              'https://github-readme-stats.vercel.app/api/top-langs/?username=mggyslz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8',
+              'assets/langs.svg'
+            );
+            await download(
+              'https://streak-stats.demolab.com?user=mggyslz&theme=tokyonight&hide_border=true',
+              'assets/streak.svg'
+            );
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: update GitHub stats [skip ci]"
+          git push
