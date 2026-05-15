@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm mggyslz 👋
-### Full-Stack Developer & Designer · Bicol Region, Philippines 🇵🇭
+### Full-Stack Developer & Code Artist · Bicol Region, Philippines 🇵🇭
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=534AB7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Philippines;Building+reliable%2C+well-structured+solutions;Python+%7C+TypeScript+%7C+React+%7C+PostgreSQL;NLP+%7C+Transformers+%7C+PyTorch+%7C+HuggingFace;Always+learning%2C+always+improving.)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 
 ## 💡 About Me
 
-I'm a **Full-Stack Developer** focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I'm drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code — including applied AI and NLP research.
+I'm a **Full-Stack Developer & Code Artist** focused on designing and building reliable, well-structured solutions. My work centers on deepening my understanding of software systems while expanding practical experience across multiple programming languages and modern frameworks. I'm drawn to challenging problems that demand clear thinking, solid architecture, and maintainable code — including applied AI and NLP research.
 
 | | |
 |---|---|
@@ -139,6 +139,109 @@ I'm a **Full-Stack Developer** focused on designing and building reliable, well-
 | ![](https://img.shields.io/badge/Learning-888780?style=flat-square) | ![System Design](https://img.shields.io/badge/System%20Design-534AB7?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-0F6E56?style=flat-square) ![Testing](https://img.shields.io/badge/Testing-993C1D?style=flat-square) ![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-EE4C2C?style=flat-square) |
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+> Things I've built that I'm actually proud of — real problems, real solutions.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### GoldLock – Password Manager
+`Flask` `Python` `SQLite` `HTML/CSS/JS`
+
+Built for a student who needed something simple and actually secure. Full-stack password manager with encrypted credential storage and a clean, no-nonsense UI. Ship it, use it, trust it. [→ GitHub](https://github.com/mggyslz/potential-octo-couscous)
+
+</td>
+<td width="50%" valign="top">
+
+### TaGSense – Sentiment Analysis
+`Python` `Flask` `SQLite`
+
+Detects emotions in Taglish — that messy, beautiful code-switched language Filipinos actually speak online. Fine-tuned multilingual AI models on low-resource Philippine language data. Research-grade, but built to work in the real world. [→ GitHub](https://github.com/mggyslz/tagsense)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Accesium – QR Access Control
+`Python` `Flask` `SQLite`
+
+QR-based entry/exit monitoring with real-time logging. Built for institutions that need to know who's coming and going — and when. Clean interface, reliable backend. [→ GitHub](https://github.com/mggyslz/Accesium-QR-Logger)
+
+</td>
+<td width="50%" valign="top">
+
+### SmartTreasurer
+`React` `TypeScript` `Tailwind CSS` `Supabase`
+
+A treasury management app for tracking collections and expenses. Started as vanilla HTML/CSS/JS, then rebuilt properly with a modern stack and real-time database. Learned a lot from doing it twice. [→ GitHub](https://github.com/mggyslz/SmartTreasurer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Reginald – Offline Chatbot
+`React Native` `SQLite`
+
+A cross-platform mobile chatbot that works completely offline. RAG + persistent memory using a fully local language model. Private, context-aware, and yours — no cloud needed. [→ GitHub](https://github.com/mggyslz/rag-ai-assistant)
+
+</td>
+<td width="50%" valign="top">
+<!-- intentionally empty for layout balance -->
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Passion Projects
+
+> Side experiments, weekend builds, "what if I just tried this" moments. Not every project needs a pitch — sometimes you just build for the joy of it.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### EraseThatShii – Background Remover
+`HTML` `CSS` `JavaScript` `Python`
+
+Sometimes you just need the background gone, fast. Simple web app, does exactly one thing, does it well. [→ GitHub](https://github.com/mggyslz/background-remover)
+
+</td>
+<td width="50%" valign="top">
+
+### File Organizer
+`Python` `CustomTkinter`
+
+My files were a mess. So I built something to fix that. Cross-platform GUI that auto-sorts files into categorized folders. Scratched my own itch. [→ GitHub](https://github.com/mggyslz/file-organizer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Pomodoro App
+`React` `TypeScript` `SQLite` `Tailwind`
+
+Built a Pomodoro timer because I kept getting distracted building things instead of studying. The irony was not lost on me. [→ GitHub](https://github.com/mggyslz/focus-flow-cadence)
+
+</td>
+<td width="50%" valign="top">
+
+### CLI Battle Game
+`Python`
+
+A terminal-based battle system prototype. Pure OOP, pure Python, pure fun. Started as a way to practice object-oriented design — ended up being way more fun than expected. [→ GitHub](https://github.com/mggyslz/CLI-battle-prototype)
+
+</td>
+</tr>
+</table>
 
 ---
 
