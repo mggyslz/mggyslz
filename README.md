@@ -1,6 +1,6 @@
 # Hey there, I'm Miguel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-A Full-Stack Developer by day ☀️ and an Code Artist by night.
+A Developer by day ☀️ and an Artist by night.
 
 Based in Bicol Region, Philippines 🇵🇭
 
