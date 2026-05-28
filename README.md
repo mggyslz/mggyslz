@@ -1,6 +1,6 @@
 # Hey there, I'm Miguel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-A Developer by day ☀️ and an Artist by night.
+I like building things out of boredom🪐.
 
 Based in Bicol Region, Philippines 🇵🇭
 
