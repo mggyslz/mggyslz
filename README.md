@@ -4,7 +4,7 @@ I like building things out of boredom🪐.
 
 Based in Bicol Region, Philippines 🇵🇭
 
-- I use daily: `.py` `.ts` `.tsx` `.js` `.html` `.css` `.sql`
+- I use daily: `.py` `.ts` `.tsx` `.js` `.html` `.css` `.sql` `.go`
 - I'm mostly active building full-stack apps and  AI/NLP + fine-tuning models
 - Ping me about **full-stack development, NLP, multilingual AI, software architecture**
 
@@ -12,11 +12,11 @@ Based in Bicol Region, Philippines 🇵🇭
 
 **Languages & Tools**
 
-`.py` `.ts` `.js` `.cpp` `.java` `.php` `.tsx` `.html` `.css` `.sql` `pytorch` `transformers`
+`.py` `.ts` `.js` `.cpp` `.java` `.php` `.tsx` `.html` `.css` `.sql` `.go` `pytorch` `transformers`
 
 ---
 
 **Connect**
 
-[Facebook](https://www.facebook.com/miggzz.imperialcea) · [Instagram](https://www.instagram.com/itz.mgzz/) · [Gmail](mailto:miggymiggyimperialcea@gmail.com)
+[Facebook](https://www.facebook.com/miggzz.imperialcea) · [Instagram](https://www.instagram.com/itz.mgzz/) · [Gmail](mailto:miggymiggyimperialcea@gmail.com) · [Leetcode](https://leetcode.com/u/miggymiggyimperialcea/)
 
